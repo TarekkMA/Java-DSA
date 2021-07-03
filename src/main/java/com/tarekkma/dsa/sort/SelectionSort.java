@@ -1,6 +1,6 @@
 package com.tarekkma.dsa.sort;
 
-import static com.tarekkma.dsa.sort.SortUtils.*;
+import static com.tarekkma.dsa.Utils.*;
 
 
 /**

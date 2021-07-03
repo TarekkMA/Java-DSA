@@ -1,7 +1,7 @@
 package com.tarekkma.dsa.sort;
 
-import static com.tarekkma.dsa.sort.SortUtils.exch;
-import static com.tarekkma.dsa.sort.SortUtils.less;
+import static com.tarekkma.dsa.Utils.exch;
+import static com.tarekkma.dsa.Utils.less;
 
 /**
  * Analysis: (Still open, dependant on the increment sequence)

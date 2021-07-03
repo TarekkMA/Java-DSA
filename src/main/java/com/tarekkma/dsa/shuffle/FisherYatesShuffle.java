@@ -2,7 +2,7 @@ package com.tarekkma.dsa.shuffle;
 
 import java.util.Random;
 
-import static com.tarekkma.dsa.sort.SortUtils.exch;
+import static com.tarekkma.dsa.Utils.exch;
 
 public class FisherYatesShuffle implements Shuffle {
     public final Random random;

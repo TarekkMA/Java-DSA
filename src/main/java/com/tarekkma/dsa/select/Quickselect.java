@@ -3,8 +3,8 @@ package com.tarekkma.dsa.select;
 import com.tarekkma.dsa.shuffle.FisherYatesShuffle;
 import com.tarekkma.dsa.shuffle.Shuffle;
 
-import static com.tarekkma.dsa.sort.SortUtils.exch;
-import static com.tarekkma.dsa.sort.SortUtils.less;
+import static com.tarekkma.dsa.Utils.exch;
+import static com.tarekkma.dsa.Utils.less;
 
 public class Quickselect implements Select {
 

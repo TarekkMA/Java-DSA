@@ -1,10 +1,10 @@
-package com.tarekkma.dsa.sort;
+package com.tarekkma.dsa;
 
 import java.util.Comparator;
 
-public final class SortUtils {
+public final class Utils {
 
-    private SortUtils() {
+    private Utils() {
     }
 
     public static <T extends Comparable<T>> boolean less(T v, T w) {
